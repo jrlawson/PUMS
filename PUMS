@@ -1,0 +1,4 @@
+create table test (myid integer);
+insert into test values (0);
+insert into test values (1);
+select * from test;
